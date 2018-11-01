@@ -1,2 +1,2 @@
-# GPS Tracker based on LoRa
+# LoRa GPS Tracker
 Work in progress, please wait.
